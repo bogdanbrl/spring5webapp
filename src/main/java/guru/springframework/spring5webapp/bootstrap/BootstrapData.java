@@ -42,7 +42,7 @@ public class BootstrapData implements CommandLineRunner {
         addressPetersburg.setCity("St Petersburg");
         addressPetersburg.setState("FL");
 
-        Publisher branCastlePublisher = new Publisher("branCastleAddress");
+        Publisher branCastlePublisher = new Publisher("Bran Castle Publisher");
         Publisher publisherSFG = new Publisher();
         publisherSFG.setName("SFG Publishing");
 
